@@ -61,9 +61,9 @@ namespace STY_WebBrowser
             this.label3.AutoSize = true;
             this.label3.Location = new System.Drawing.Point(0, 69);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(147, 26);
+            this.label3.Size = new System.Drawing.Size(147, 39);
             this.label3.TabIndex = 2;
-            this.label3.Text = "Made with Visual Studio 2019\r\nMade with C# language";
+            this.label3.Text = "Made with Visual Studio 2019\r\nMade with C# language\r\nBased on Chromium";
             // 
             // label4
             // 
@@ -87,7 +87,7 @@ namespace STY_WebBrowser
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(204, 102);
+            this.ClientSize = new System.Drawing.Size(204, 113);
             this.Controls.Add(this.label5);
             this.Controls.Add(this.label4);
             this.Controls.Add(this.label3);
